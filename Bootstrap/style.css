@@ -1,0 +1,28 @@
+
+
+/* .container{
+    background-color: #ccc;
+}
+
+[class*='col']{
+    background-color: lightskyblue;
+    border: 1px solid black;
+} */
+
+
+.box{
+    width: 200px;
+    height: 200px;
+}
+ul{
+    list-style-type: lower-roman;
+}
+
+.navimg{
+    width: 150px;
+    height: 65px;
+}
+
+li{
+    text-transform: uppercase;
+}

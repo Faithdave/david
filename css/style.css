@@ -1,0 +1,165 @@
+.city{
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    font-style: italic;
+}
+
+#town{
+    font-size: 30px;
+    background-color:grey;
+    color: white;
+    font-style: italic;
+    
+
+}
+
+/* body{
+    background-color: red; */
+
+.head{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tail{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.name{
+    background-image: url('../images/national-cancer-institute-N_aihp118p8-unsplash\ -\ Copy.jpg');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    text-align: center;
+}
+
+
+.name h1{
+    padding-top: 200px;
+    color: blue;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.name p{
+    color: red;
+    font-size: 20px;
+}
+a:link{
+    color:blue;
+    text-decoration: none;
+}
+
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: red;
+
+}
+/* css colors */
+/* 1 By using color name */
+body{
+    background: #ffffff;
+    
+}
+
+/* img{
+    float: right;
+} */
+
+/* p{
+    clear: right;
+} */
+.box{
+    width: 100px;
+    height: 100px;
+    background: red;
+    float: left;
+    
+   
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background:cyan;
+    float: left;
+
+    
+
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background: violet;
+    float: left;
+    
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background: indigo;
+    float: left;
+    
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    background: rgb(26, 1, 1);
+    float: left;
+    
+}
+.box5{
+    width: 100px;
+    height: 100px;
+    background: rgb(197, 183, 183);
+}
+.box6{
+    width: 100px;
+    height: 100px;
+    background: green;
+}
+.box7{
+    width: 100px;
+    height: 100px;
+    background:yellow;
+}
+ .book{
+    float: right;
+}
+.mat{
+    display: flex;
+    
+} 
+
+.rat{
+    width: 400px;
+    margin-left: 20px;
+    box-shadow: 5px 6px 7px rgba(0, 0, 0, 0.7);
+}
+img{
+    width: 100%;
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+
+
+
+/* 2.By using Hexadecimnal value */
+
+/* 3 By using rgb */
